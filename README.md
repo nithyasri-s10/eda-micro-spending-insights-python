@@ -53,16 +53,16 @@ The dataset consists of structured transaction records with the following featur
 ## 📊 Key Visualizations
 
 ### Category-wise Spending
-![Category](category_spending.png)
+<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/category_spending.png" width="600"/>
 
 ### Daily Spending Trend
-![Trend](daily_trend.png)
+<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/daily_trend.png" width="600"/>
 
 ### Distribution
-![Distribution](distribution.png)
+<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/distribution.png" width="600"/>
 
 ### Heatmap
-![Heatmap](heatmap.png)
+<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/heatmap.png" width="600"/>
 
 ---
 
