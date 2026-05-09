@@ -52,22 +52,17 @@ The dataset consists of structured transaction records with the following featur
 
 ## 📊 Key Visualizations
 
-> *(Add your screenshots in an `images/` folder and update paths below)*
+### Category-wise Spending
+![Category](category_spending.png)
 
-### 📌 Category-wise Spending
-![Category Spending](images/category_spending.png)
+### Daily Spending Trend
+![Trend](daily_trend.png)
 
-### 📌 Daily Spending Trend
-![Daily Trend](images/daily_trend.png)
+### Distribution
+![Distribution](distribution.png)
 
-### 📌 Payment Mode Usage
-![Payment Mode](images/payment_mode.png)
-
-### 📌 Amount Distribution
-![Distribution](images/distribution.png)
-
-### 📌 Correlation Heatmap
-![Heatmap](images/heatmap.png)
+### Heatmap
+![Heatmap](heatmap.png)
 
 ---
 
