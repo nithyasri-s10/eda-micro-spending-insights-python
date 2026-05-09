@@ -91,3 +91,20 @@ Understanding these patterns can help in making **better budgeting and spending 
 ---
 
 ## 📁 Project Structure
+
+
+
+
+## 📊 Key Visualizations
+
+### Category-wise Spending
+![Category](category_spending.png)
+
+### Daily Spending Trend
+![Trend](daily_trend.png)
+
+### Distribution
+![Distribution](distribution.png)
+
+### Heatmap
+![Heatmap](heatmap.png)
