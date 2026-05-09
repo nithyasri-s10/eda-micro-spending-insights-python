@@ -1,36 +1,35 @@
-# 📊 Micro Spending Analysis (EDA using Python)
+# 📊 Micro Spending Analysis using Exploratory Data Analysis (EDA)
 
 ## 🚀 Project Overview
 
-This project performs **Exploratory Data Analysis (EDA)** on daily micro spending data to understand spending patterns, identify trends, and highlight frequent low-value transactions.
-
-The main goal is to analyze how small daily expenses contribute to overall spending.
+This project focuses on analyzing daily micro spending habits using **Exploratory Data Analysis (EDA)** techniques.
+The objective is to uncover patterns, trends, and insights from small daily transactions that often go unnoticed but significantly impact overall expenses.
 
 ---
 
 ## 🎯 Objectives
 
-* Analyze daily spending behavior
-* Identify micro transactions (< ₹100)
-* Understand category-wise expenses
-* Study payment method usage
-* Generate meaningful insights
+* Analyze spending behavior over a 30-day period
+* Identify frequent micro transactions (less than ₹100)
+* Understand category-wise spending distribution
+* Evaluate payment method usage
+* Generate meaningful insights for better financial awareness
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset Description
 
-The dataset contains:
+The dataset contains structured transaction records with the following fields:
 
-* Date
-* Category (Food, Transport, Online)
-* Amount
-* Payment Mode (UPI, Cash, Card)
-* Location
+* **Date** – Transaction date
+* **Category** – Expense type (Food, Transport, Online)
+* **Amount** – Transaction value (₹)
+* **Payment_Mode** – Payment method (UPI, Cash, Card)
+* **Location** – Place of transaction
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies Used
 
 * Python
 * Pandas
@@ -40,50 +39,67 @@ The dataset contains:
 
 ---
 
-## 📊 Key Visualizations
+## 🔍 Exploratory Data Analysis
 
-### Category-wise Spending
+### ✔ Data Cleaning
 
-<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/category_spending.png">
+* Removed duplicate records
+* Checked for missing values
+* Converted date column to datetime format
 
-### Daily Spending Trend
+### ✔ Analysis Performed
 
-<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/daily_trend.png">
-
-### Amount Distribution
-
-<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/distribution.png">
-
-### Correlation Heatmap
-
-<img src="https://raw.githubusercontent.com/nithyasri-s10/eda-micro-spending-insights-python/main/heatmap.png">
+* Category-wise spending analysis
+* Daily spending trend analysis
+* Payment mode usage analysis
+* Distribution of transaction amounts
+* Correlation analysis
 
 ---
 
 ## 💡 Key Insights
 
-* Most spending occurs in the **Food category**
-* Many transactions are below ₹100 (micro spending)
-* **UPI is the most used payment method**
-* Spending varies across days
-* Small expenses accumulate over time
+* The **Food category contributes the highest spending**, indicating frequent daily purchases
+* A large number of transactions are **below ₹100**, highlighting micro spending behavior
+* **UPI is the most commonly used payment method**
+* Spending varies across different days with noticeable peaks
+* Small repeated expenses accumulate into a significant total over time
 
 ---
 
 ## 📈 Conclusion
 
-This project shows that tracking small daily expenses is important, as they significantly impact overall spending. Better awareness can lead to improved financial management.
+The analysis demonstrates that micro spending plays a crucial role in overall expense management.
+Tracking and analyzing these small transactions can help individuals make better financial decisions and improve budgeting habits.
 
 ---
 
-## 📁 Project Files
+## 🚀 Future Enhancements
 
-* `EDA_Micro_Spending_Analysis.ipynb`
-* `micro_spending.csv`
-* `README.md`
+* Develop an interactive dashboard using Power BI or Tableau
+* Apply machine learning techniques for expense prediction
+* Expand dataset for long-term trend analysis
 
 ---
 
-## ⭐ If you like this project
+## 📁 Project Structure
 
-Give it a ⭐ and share your feedback!
+```
+eda-micro-spending-insights-python/
+│
+├── micro_spending.csv
+├── EDA_Micro_Spending_Analysis.ipynb
+└── README.md
+```
+
+---
+
+## ⭐ Acknowledgement
+
+This project was completed as part of a data analytics learning journey to gain hands-on experience in data analysis and visualization.
+
+---
+
+## 📌 Connect
+
+If you found this project useful, feel free to ⭐ star the repository and share your feedback!
