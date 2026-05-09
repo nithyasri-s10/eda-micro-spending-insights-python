@@ -84,6 +84,15 @@ Tracking and analyzing these small transactions can help individuals make better
 
 ---
 
+## 📊 Sample Output
+
+- Category-wise spending summary  
+- Daily expense trend analysis  
+- Payment mode usage distribution  
+- Identification of frequent low-value transactions  
+
+---
+
 ## 📁 Project Structure
 
 ```
