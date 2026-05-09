@@ -1,5 +1,7 @@
 # 📊 Micro Spending Analysis using Exploratory Data Analysis (EDA)
 
+📌 Beginner-friendly Exploratory Data Analysis project to uncover micro spending patterns and financial insights using Python.
+
 ## 🚀 Project Overview
 
 This project focuses on analyzing daily micro spending habits using **Exploratory Data Analysis (EDA)** techniques.
