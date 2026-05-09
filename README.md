@@ -79,14 +79,14 @@ The dataset consists of structured transaction records with the following featur
 ### Daily Spending Trend
 ![Trend](daily_trend.png)
 
-### Payment Mode
-![Payment](payment_mode.png)
-
 ### Distribution
 ![Distribution](distribution.png)
 
 ### Heatmap
 ![Heatmap](heatmap.png)
+
+---
+
 ## 💡 Key Insights
 
 - 🥗 **Food category dominates overall spending**, indicating frequent daily purchases  
